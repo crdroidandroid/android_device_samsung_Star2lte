@@ -35,3 +35,4 @@ TARGET_KERNEL_CONFIG := exynos9810-star2lte_defconfig
 
 # properties
 TARGET_VENDOR_PROP += $(DEVICE_PATH)/vendor.prop
+TARGET_PRODUCT_PROP += $(DEVICE_PATH)/product.prop
